@@ -1,0 +1,7 @@
+setup.py
+wechat.py
+wechat.egg-info/PKG-INFO
+wechat.egg-info/SOURCES.txt
+wechat.egg-info/dependency_links.txt
+wechat.egg-info/entry_points.txt
+wechat.egg-info/top_level.txt
